@@ -1,4 +1,4 @@
-# PikPAK-lesson Agent 指南与架构手册 (AGENTS.md)
+# PikPak-lesson Agent 指南与架构手册 (AGENTS.md)
 
 本文件专供 AI Coding Agent 跨会话读取，记录本项目的设计规范、开发约定与排障经验。所有业务逻辑与运维规则均在此文件内自闭环，不依赖且不污染全局配置。
 
