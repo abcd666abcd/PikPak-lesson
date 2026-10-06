@@ -1,0 +1,7 @@
+{
+  "pikpak_token": "YOUR_PIKPAK_BEARER_TOKEN",
+  "telegram_bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+  "telegram_allowed_user_id": 123456789,
+  "proxy_url": "http://127.0.0.1:7890",
+  "default_work_dir": "D:\\aria2\\新建文件夹"
+}
